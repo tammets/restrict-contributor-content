@@ -3,7 +3,7 @@
 Plugin Name: Restrict Contributor Content
 Description: Restrict contributors from creating new content except H5P content.
 Version: 1.0
-Author: Your Name
+Author: Priit Tammets
 */
 
 // Restrict contributor capabilities
